@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DarkMatter-D.DarkMatter-D&"  />
-</div>
 
 ###
 
